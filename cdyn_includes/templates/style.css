@@ -1,0 +1,7 @@
+.post_list{ margin:10px;}
+
+.post_list .post {
+padding:10px; 
+margin:10px;
+box-shadow: 0 0 2px 2px #CCCCCC; 
+}
