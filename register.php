@@ -26,7 +26,7 @@ $utilobj=new cdyn_phputility();
 <h4>Registration:</h4><br/><br/><br/><br/>
 
 <div class="cdynerror" id="cdynerror" style="display:none;"><ul><li><strong>Error :</strong></li><?php //echo $error;?></ul> </div>
-<div id="cdynsuccess" style="display:none;">Your form data saved successfully</div>
+<div id="cdynsuccess" style="display:none;">Your form data saved successfully.</div>
 
 
 <div class="cdyninput_elements label_left medium" >
